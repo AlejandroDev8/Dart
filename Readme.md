@@ -19,7 +19,14 @@ dart run 01-hello-world.dart
 
 ### 02 - Data Types
 
-The [Data Types](exercises/01-basic/02-datatypes.dart) exercise demonstrates the usage of different data types in Dart. It declares variables of type `int`, `double`, and nullable `int`, and prints their values.
+The [Data Types](exercises/01-basic/02-datatypes.dart) exercise demonstrates the usage of different data types in Dart. It declares variables of type `int`, `double`, nullable `int`, and `String`, and prints their values.
+
+The exercise covers:
+
+- Numeric types (`int` and `double`)
+- Nullable types
+- String interpolation
+- Multiline strings
 
 To run this exercise, use the following commands:
 
