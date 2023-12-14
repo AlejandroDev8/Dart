@@ -13,7 +13,7 @@ The [Hello World](exercises/01-basic/01-hello-world.dart) exercise is a simple p
 To run an exercise, navigate to its directory and use the `dart run` command. For example:
 
 ```sh
-cd exercises/01-hello-world
+cd exercises/01-basic
 dart run 01-hello-world.dart
 ```
 
