@@ -28,9 +28,9 @@ The exercise covers:
 - String interpolation
 - Multiline strings
 - Boolean types
-- Lists
+- Lists and Sets
 
-In the exercise, you'll also learn how to manipulate lists in Dart. A list of villains is created and then updated by changing the villain at index 0.
+In the exercise, you'll also learn how to manipulate lists and sets in Dart. A list of villains is created and then updated by changing the villain at index 0 and adding a new villain at the end. The list is then converted to a set to remove any duplicates, and then converted back to a list.
 
 To run this exercise, use the following commands:
 

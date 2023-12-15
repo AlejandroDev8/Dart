@@ -65,6 +65,27 @@ main() {
   List<String> villains = ['Thanos', 'Ultron', 'Red Skull', 'Loki'];
 
   villains[0] = 'Superman'; // change value in the position 0 to Superman
+  villains.add('Joker'); // add value in the end of list
 
   print(villains);
+
+  Set<String> villansSet = villains.toSet(); // convert list to set
+  print(villansSet.toList()); // convert set to list
+
+  // Sets
+
+  // Sets, unlike lists, do not have duplicate values.
+
+  /// This code demonstrates the usage of sets in Dart.
+
+  Set<String> villains2 = {
+    'Thanos',
+    'Ultron',
+    'Red Skull',
+    'Loki'
+  }; // create set
+
+  villains2.add('Joker'); // add value in the end of list
+
+  print(villains2);
 }
