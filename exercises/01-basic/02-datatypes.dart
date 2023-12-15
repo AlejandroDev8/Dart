@@ -88,4 +88,28 @@ main() {
   villains2.add('Joker'); // add value in the end of list
 
   print(villains2);
+
+  // Maps or Dictionaries
+
+  // This code demonstrates the usage of maps in Dart.
+
+  /// Creates a map named `capitan` using the `Map` constructor and adds values to it.
+  Map<String, dynamic> capitan = new Map(); // create map with constructor
+
+  capitan.addAll({
+    'name': 'Steve Rogers',
+    'nickname': 'Capitan America'
+  }); // add values in map
+
+  print(capitan);
+
+  /// Creates a map named `ironman` using map literal syntax and initializes it with key-value pairs.
+  Map<String, dynamic> ironman = {
+    'name': 'Tony Stark',
+    'nickname': 'Ironman',
+    'age': 45,
+    'alive': false
+  }; // create map
+
+  print(ironman);
 }
