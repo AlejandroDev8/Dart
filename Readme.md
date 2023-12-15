@@ -58,3 +58,20 @@ To run this exercise, use the following commands:
 cd exercises/01-basic
 dart run 03-finalConst.dart
 ```
+
+### 04 - Comments
+
+The [Comments](exercises/01-basic/04-comments.dart) exercise demonstrates the usage of different types of comments in Dart. It includes inline comments, multiline comments, and documentation comments.
+
+The exercise covers:
+
+- Inline comments
+- Multiline comments
+- Documentation comments
+
+To run this exercise, use the following commands:
+
+```sh
+cd exercises/01-basic
+dart run 04-comments.dart
+```
