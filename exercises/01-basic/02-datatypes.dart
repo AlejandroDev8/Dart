@@ -44,4 +44,16 @@ main() {
   print(name2);
   print(name3);
   print(multiline);
+
+  // Booleans
+
+  var isActive; // is null is use var
+
+  print(isActive);
+
+  bool isAlive = true;
+  bool isNotAlive = !isAlive;
+
+  print(isAlive); // is true is use bool
+  print(isNotAlive); // is false is use bool
 }
