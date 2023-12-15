@@ -56,4 +56,15 @@ main() {
 
   print(isAlive); // is true is use bool
   print(isNotAlive); // is false is use bool
+
+  // Lists
+
+  /// This code demonstrates the usage of lists in Dart.
+  /// It creates a list of strings called 'villains' and initializes it with four values.
+  /// It then changes the value at index 0 to 'Superman' and prints the updated list.
+  List<String> villains = ['Thanos', 'Ultron', 'Red Skull', 'Loki'];
+
+  villains[0] = 'Superman'; // change value in the position 0 to Superman
+
+  print(villains);
 }
