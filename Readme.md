@@ -39,3 +39,22 @@ To run this exercise, use the following commands:
 cd exercises/01-basic
 dart run 02-datatypes.dart
 ```
+
+### 03 - Final and Const
+
+The [Final and Const](exercises/01-basic/03-finalConst.dart) exercise demonstrates the usage of `final` and `const` variables in Dart. It declares `final`, `const`, and `late final` variables, and prints their values. It also shows how to declare `final` and `const` lists and the difference between them.
+
+The exercise covers:
+
+- `final` variables
+- `const` variables
+- `late final` variables
+- `final` lists
+- `const` lists
+
+To run this exercise, use the following commands:
+
+```sh
+cd exercises/01-basic
+dart run 03-finalConst.dart
+```
