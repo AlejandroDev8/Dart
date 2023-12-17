@@ -98,3 +98,19 @@ To run this exercise, use the following commands:
 cd exercises/01-basic
 dart run 05-operators-arit.dart
 ```
+
+### 06 - Other Operators
+
+The [Other Operators](exercises/01-basic/06-operators.dart) exercise demonstrates the usage of different types of operators in Dart, including relational and type test.
+
+The exercise covers:
+
+- Relational operators (`>`, `<`, `>=`, `<=`, `!=`, `==`)
+- Type test operators (`is`, `is!`)
+
+To run this exercise, use the following commands:
+
+```sh
+cd exercises/01-basic
+dart run 06-operators.dart
+```
