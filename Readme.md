@@ -75,3 +75,26 @@ To run this exercise, use the following commands:
 cd exercises/01-basic
 dart run 04-comments.dart
 ```
+
+### 05 - Arithmetic Operators
+
+The [Arithmetic Operators](exercises/01-basic/05-operators-arit.dart) exercise demonstrates the usage of different arithmetic operators in Dart. It includes addition, subtraction, multiplication, division, modulus, and increment/decrement operators.
+
+The exercise covers:
+
+- Addition (`+`)
+- Subtraction (`-`)
+- Multiplication (`*`)
+- Division (`/` and `~/`)
+- Modulus (`%`)
+- Increment (`++`)
+- Decrement (`--`)
+- Addition assignment (`+=`)
+- Subtraction assignment (`-=`)
+
+To run this exercise, use the following commands:
+
+```sh
+cd exercises/01-basic
+dart run 05-operators-arit.dart
+```
