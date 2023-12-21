@@ -4,7 +4,9 @@ This repository contains exercises for learning Dart.
 
 ## Exercises
 
-### 01 - Hello World
+### 01-Basic
+
+#### 01 - Hello World
 
 The [Hello World](exercises/01-basic/01-hello-world.dart) exercise is a simple program that prints "Hello, World!" to the console.
 
@@ -17,7 +19,7 @@ cd exercises/01-basic
 dart run 01-hello-world.dart
 ```
 
-### 02 - Data Types
+#### 02 - Data Types
 
 The [Data Types](exercises/01-basic/02-datatypes.dart) exercise demonstrates the usage of different data types in Dart. It declares variables of various types and prints their values.
 
@@ -40,7 +42,7 @@ cd exercises/01-basic
 dart run 02-datatypes.dart
 ```
 
-### 03 - Final and Const
+#### 03 - Final and Const
 
 The [Final and Const](exercises/01-basic/03-finalConst.dart) exercise demonstrates the usage of `final` and `const` variables in Dart. It declares `final`, `const`, and `late final` variables, and prints their values. It also shows how to declare `final` and `const` lists and the difference between them.
 
@@ -59,7 +61,7 @@ cd exercises/01-basic
 dart run 03-finalConst.dart
 ```
 
-### 04 - Comments
+#### 04 - Comments
 
 The [Comments](exercises/01-basic/04-comments.dart) exercise demonstrates the usage of different types of comments in Dart. It includes inline comments, multiline comments, and documentation comments.
 
@@ -76,7 +78,7 @@ cd exercises/01-basic
 dart run 04-comments.dart
 ```
 
-### 05 - Arithmetic Operators
+#### 05 - Arithmetic Operators
 
 The [Arithmetic Operators](exercises/01-basic/05-operators-arit.dart) exercise demonstrates the usage of different arithmetic operators in Dart. It includes addition, subtraction, multiplication, division, modulus, and increment/decrement operators.
 
@@ -99,7 +101,7 @@ cd exercises/01-basic
 dart run 05-operators-arit.dart
 ```
 
-### 06 - Other Operators
+#### 06 - Other Operators
 
 The [Other Operators](exercises/01-basic/06-operators.dart) exercise demonstrates the usage of different types of operators in Dart, including relational and type test.
 
