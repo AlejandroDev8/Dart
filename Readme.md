@@ -4,6 +4,8 @@ This repository contains exercises for learning Dart.
 
 ## Exercises
 
+### 01-Basic
+
 ### 01 - Hello World
 
 The [Hello World](exercises/01-basic/01-hello-world.dart) exercise is a simple program that prints "Hello, World!" to the console.
