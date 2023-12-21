@@ -131,3 +131,33 @@ To run this exercise, use the following commands:
 cd exercises/02-control
 dart run 01-take-input.dart
 ```
+
+#### 02 - If-Else Statements
+
+The [If-Else Statements](exercises/02-control/02-ifelse.dart) exercise demonstrates the usage of if-else control structures in Dart. It covers:
+
+- Using `if` statements to control the flow of the program
+- Using `else` statements to provide an alternative path for the program
+- Using `else if` statements to check multiple conditions
+
+To run this exercise, use the following commands:
+
+```sh
+cd exercises/02-control
+dart run 02-ifelse.dart
+```
+
+#### 02.1 - If-Else Exercise
+
+The [If-Else Exercise](exercises/02-control/02-exercise-ifelse.dart) is a practice exercise for using if-else control structures in Dart. It covers:
+
+- Using `if` statements to control the flow of the program
+- Using `else` statements to provide an alternative path for the program
+- Using `else if` statements to check multiple conditions
+
+To run this exercise, use the following commands:
+
+```sh
+cd exercises/02-control
+dart run 02-exercise-ifelse.dart
+```
