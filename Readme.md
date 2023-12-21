@@ -114,3 +114,20 @@ To run this exercise, use the following commands:
 cd exercises/01-basic
 dart run 06-operators.dart
 ```
+
+### 02 - Control Structures
+
+#### 01 - Taking Input
+
+The [Taking Input](exercises/02-control/01-take-input.dart) exercise demonstrates how to take input from the user in Dart using the `stdin.readLineSync()` function. It covers:
+
+- Importing the `dart:io` library
+- Using the `stdin.readLineSync()` function to take user input
+- Parsing the input to different data types
+
+To run this exercise, use the following commands:
+
+```sh
+cd exercises/02-control
+dart run 01-take-input.dart
+```
